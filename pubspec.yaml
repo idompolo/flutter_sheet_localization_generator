@@ -5,7 +5,7 @@ homepage: https://github.com/aloisdeniel/flutter_sheet_localization
 
 environment:
   sdk: ">=2.10.5 <3.0.0"
-  flutter: ">=2.0.0"
+  flutter: ">=1.0.0"
 
 publish_to: none
 
